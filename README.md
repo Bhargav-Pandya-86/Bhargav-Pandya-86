@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhargav Pandya
 - 👀 I’m interested in Data Science internship.
-- 🌱 I’m currently learning MSC Data Science and Analytics in Brunel University London.
+- 🌱 I’m currently learning MSc Data Science and Analytics in Brunel University London.
 - 
 
 <!---
